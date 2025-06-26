@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Cassio Silva</h1>
 <h3 align="center">Apaixonado por Data Science e Análise de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **SQL, Python, PowerBI**
+- 🌱 Atualmente sou analista de dados com mais de 3 anos de experiência na área**
 
 - 💬 Me pergunte sobre **SQL, Python, PowerBI, Excel**
 
