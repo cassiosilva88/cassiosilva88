@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **SQL, Python, PowerBI**
 
-- 💬 Me pergunte sobre **SQL, Python, PowerBI, Excel,R**
+- 💬 Me pergunte sobre **SQL, Python, PowerBI, Excel**
 
 - 📫 Você me acha através do email **cassio03@gmail.com**
 
