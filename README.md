@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do email **cassio03@gmail.com**
 
-- 📄 Sobre minhas habilidades e esperiências [https://www.linkedin.com/in/cassio-carlos-b23696122/](https://www.linkedin.com/in/cassio-carlos-b23696122/)
+- 📄 Sobre minhas habilidades e esperiências (https://www.linkedin.com/in/cassiosilvino/)(https://www.linkedin.com/in/cassiosilvino/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
